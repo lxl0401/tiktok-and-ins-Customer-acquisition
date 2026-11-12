@@ -1,5 +1,5 @@
 # tt-scout 使用说明
-
+# 使用联系VX:LXL_CJH_LOVE
 > tt-scout —— TikTok / Instagram 获客采集助手，关键词采集 + 意向筛选 + 评论回复 + 私信触达 + 手机派单，一套工具跑完整条获客链路。
 
 ---
